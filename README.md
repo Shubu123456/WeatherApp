@@ -1,0 +1,2 @@
+# WeatherApp
+it uses django
